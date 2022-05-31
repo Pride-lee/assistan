@@ -1,6 +1,6 @@
 <h1>教程</h1>
 <h2>第一步</h2>
-<h3>先下载<span>远程控制软件</span>ToDesk<a href="https://dl.todesk.com/windows/ToDesk_Lite_x64.exe">点我下载</a>或者去<a href="javascript:window.open('https://www.todesk.com')"><span>官网</a></span>下载</h3>
+<h3>先下载<span>远程控制软件</span>ToDesk<a href="https://dl.todesk.com/windows/ToDesk_Lite_x64.exe">点我下载</a>或者去<a href="https://www.todesk.com"><span>官网</a></span>下载(精简版免安装)</h3>
 <img src="./down.png" alt="" width="700">
 <br>
 <br>
